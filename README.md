@@ -4,11 +4,15 @@
 * 🔭 I’m currently working on NodeJs, Python, Java, Flutter
 * 🌱 I’m currently learning Apache Spark
 * 💬 Ask me what you want
-* 📫 How to reach me:
 
-<hr/>
+### 📫 How to reach me:
+<br>
+<a href="https://www.instagram.com/ozcan_yureklioglu/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="30px"/></a>
+<a href="https://www.linkedin.com/in/%C3%B6zcan-y%C3%BCreklio%C4%9Flu-5722b1183/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
+<br>
+<hr>
 
-### Technical Skills
+### 💼 Technical Skills
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -59,6 +63,9 @@
  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyureklioglu&layout=compact) 
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-                                                                                          
+<br>
+<hr>
+
+
+</br>
                                                                                           
