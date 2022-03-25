@@ -1,5 +1,7 @@
-<img src="https://ibb.co/r7twXvj" />
-
+<p align=”center”>
+ <img src="https://i.ibb.co/dWc5H7T/Uzay-Yar-s-Kanvas-Banner.png">
+</p>
+<br>
 ### Hi there 👋 I'm Özcan
 
 
