@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/muhammetsalci/muhammetsalci/raw/main/Yaz%C4%B1%20Tahtas%C4%B1%20Ho%C5%9F%20Geldin%20Kanvas%20Banner%20(1).gif" alt="my banner"></a>
+<p align="center"><img src="https://github.com/ozcanyureklioglu/ozcanyureklioglu/blob/main/Yaz%C4%B1%20Tahtas%C4%B1%20Hos%CC%A7%20Geldin%20Kanvas%20Banner.gif" alt="my banner"></a>
 </p>
 
 
