@@ -1,5 +1,6 @@
 
-### Hi there 👋 I'm Özcan
+<p align="center"><img src="https://github.com/muhammetsalci/muhammetsalci/raw/main/Yaz%C4%B1%20Tahtas%C4%B1%20Ho%C5%9F%20Geldin%20Kanvas%20Banner%20(1).gif" alt="my banner"></a>
+</p>
 
 
 * 🔭 I’m currently working on NodeJs, Python, Java, Flutter
