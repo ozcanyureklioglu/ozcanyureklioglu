@@ -3,8 +3,8 @@
 </p>
 
 
-* 🔭 I’m currently working on NodeJs, Python, Java, Flutter
-* 🌱 I’m currently learning Apache Spark
+* 🔭 I’m currently working on .NET Core, NodeJs, React JS
+* 🌱 I’m currently learning Next JS
 * 💬 Ask me what you want
 
 ### 📫 How to reach me:
